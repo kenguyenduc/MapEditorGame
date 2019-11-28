@@ -1,0 +1,10 @@
+E:\Documents_DUC_KE\ProjectVisualStudio\NhapMonPhatTrienGame\HK9\MyProject\MapEditor\MapEditor\bin\Debug\MapEditor.exe.config
+E:\Documents_DUC_KE\ProjectVisualStudio\NhapMonPhatTrienGame\HK9\MyProject\MapEditor\MapEditor\bin\Debug\MapEditor.exe
+E:\Documents_DUC_KE\ProjectVisualStudio\NhapMonPhatTrienGame\HK9\MyProject\MapEditor\MapEditor\bin\Debug\MapEditor.pdb
+E:\Documents_DUC_KE\ProjectVisualStudio\NhapMonPhatTrienGame\HK9\MyProject\MapEditor\MapEditor\obj\Debug\MapEditor.csprojAssemblyReference.cache
+E:\Documents_DUC_KE\ProjectVisualStudio\NhapMonPhatTrienGame\HK9\MyProject\MapEditor\MapEditor\obj\Debug\MapEditor.Properties.Resources.resources
+E:\Documents_DUC_KE\ProjectVisualStudio\NhapMonPhatTrienGame\HK9\MyProject\MapEditor\MapEditor\obj\Debug\MapEditor.csproj.GenerateResource.cache
+E:\Documents_DUC_KE\ProjectVisualStudio\NhapMonPhatTrienGame\HK9\MyProject\MapEditor\MapEditor\obj\Debug\MapEditor.csproj.CoreCompileInputs.cache
+E:\Documents_DUC_KE\ProjectVisualStudio\NhapMonPhatTrienGame\HK9\MyProject\MapEditor\MapEditor\obj\Debug\MapEditor.exe
+E:\Documents_DUC_KE\ProjectVisualStudio\NhapMonPhatTrienGame\HK9\MyProject\MapEditor\MapEditor\obj\Debug\MapEditor.pdb
+E:\Documents_DUC_KE\ProjectVisualStudio\NhapMonPhatTrienGame\HK9\MyProject\MapEditor\MapEditor\obj\Debug\MapEditor.frmMain.resources
